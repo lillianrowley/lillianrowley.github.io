@@ -1,18 +1,31 @@
 body {
     margin: 60px auto;
     width: 70%;
-    background-color: lightblue;
 }
-nav ul, footer ul {
+nav ul {
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    padding: 0px;
+    list-style: none;
+    font-weight: bold;
+    background-color:lightblue;
+}
+nav a {
+    text-decoration: none;
+    color: black;
+    font-size: 2em;
+}
+footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
 }
+
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
+
 a {
     text-decoration: none;
     color: #999;
