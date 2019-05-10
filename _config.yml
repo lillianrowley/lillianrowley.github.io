@@ -1,4 +1,3 @@
-theme: jekyll-theme-cayman
 name: Lillian's Website
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
