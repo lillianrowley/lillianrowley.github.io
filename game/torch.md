@@ -1,13 +1,16 @@
 ---
 layout: game
-title: #todo:title
+title: The End Zombie
 back: /game/zombie.html
 ---
 
-#todo: content
+You grab the torch and wave it at the zombie.
 
-#todo:question
+The zombie says: "Meh!" and tells you to leave before he eats your brain.
 
-[![Choice1:](/game/images/Arrow.jpg){: height="20"} #todo:choice1](#todo:link1)
+You decide to leave for the zombie.
 
-[![Choice2:](/game/images/Arrow.jpg){: height="20"} #todo:choice2](#todo:link2)
+The End!
+--------
+
+

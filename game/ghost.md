@@ -4,6 +4,9 @@ title: Ghost
 back: /game/house.html
 ---
 
+
+![A scary ghost!](/game/images/Ghost.jpg){: style="float:right" width="300px"}
+
 #todo: content
 
 #todo:question

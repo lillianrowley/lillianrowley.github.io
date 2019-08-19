@@ -4,6 +4,8 @@ title: Zombie
 back: /game/house
 ---
 
+![A scary zombie!](/game/images/Zombie.jpg){: style="float:right"}
+
 You see some rattling junk ahead. A zombie emerges from the junk and comes toward you!
 
 You look around for a weapon, but all you see is a torch on the wall. You are also wearing a shoe, I guess.
