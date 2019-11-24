@@ -1,13 +1,19 @@
 ---
 layout: game
-title: #todo:title
+title: Following the Shimmers
 back: /game/dolphin.html
 ---
 
-#todo: content
+![Light Shimmers](/game/images/shimmers.jpg){: width="275px" style="float:right"}
 
-#todo:question
+You follow the shimmers and you think that you'll *never* catch them. You're not the best at swimming, so you get pretty tired pretty quickly.
 
-[![Choice1:](/game/images/Arrow.jpg){: height="20"} #todo:choice1](#todo:link1)
+Just as you think you can't handle it any more, the shimmers stop.
 
-[![Choice2:](/game/images/Arrow.jpg){: height="20"} #todo:choice2](#todo:link2)
+You're surprised to see that the shimmers aren't anything. They're just blurs of light in the water.
+
+You are so far out into the ocean, that you think you should probably go back home. Do you keep following the light, or turn around and go home?
+
+[![Choice1:](/game/images/Arrow.jpg){: height="20"} Go Home](home.html)
+
+[![Choice2:](/game/images/Arrow.jpg){: height="20"} Follow the Lights](lights.html)

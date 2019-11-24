@@ -4,6 +4,8 @@ title: Magical Mermaids
 back: /game
 ---
 
+![The Beach](/game/images/beach.jpg){: width="275px" style="float:right"}
+
 You were having fun at the beach, swimming, and you see a pink shimmering glint in the water
 
 You also see a dolphin which is swimming toward you
