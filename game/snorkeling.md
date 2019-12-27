@@ -4,10 +4,16 @@ title: Snorkeling
 back: /game/mermaids.html
 ---
 
-#todo: content
+![Snorkeling](/game/images/snorkeling.jpg){: width="175px" style="float:right"}
 
-#todo:question
+You follow the pink shimmering and start running out of breath. You notice that the shimmerings are pretty shallow and that you have a snorkel back home. So, you take a five minute break for a quick breath, and to go grab your snorkel.
 
-[![Choice1:](/game/images/Arrow.jpg){: height="20"} #todo:choice1](#todo:link1)
+You also notice that dolphin is still trying to get your attention. It can't be that the dolphin is just excitied to see a human. She wants to show *you* something.
 
-[![Choice2:](/game/images/Arrow.jpg){: height="20"} #todo:choice2](#todo:link2)
+Do you go home, follow the dolphin, or keep following the shimmers?
+
+[![Choice1:](/game/images/Arrow.jpg){: height="20"} Go Home](snorkel_home.html)
+
+[![Choice2:](/game/images/Arrow.jpg){: height="20"} Follow Shimmers](follow_shimmers.html)
+
+[![Choice2:](/game/images/Arrow.jpg){: height="20"} Follow Dolphin](#todo:link2)

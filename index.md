@@ -6,7 +6,7 @@ title: Lillian's "dot-com"
 Hi there, I'm Lilly!
 ====================
 
-I love dragons, and hope *you* love this website! I made it especially for kids, so if you are a parent peeking around it, it might not be as fun as it is for your kids
+I love dragons, wolves, and adorable puppies, and hope *you* love this website! I made it especially for kids, so if you are a parent peeking around it, it might not be as fun as it is for your kids
 
 About This Website
 ==================
