@@ -11,5 +11,5 @@ I have finished one game and I am working on a second one. Choose what you want 
 
 And here is an interactive story I made on Scratch!
 
-[![Scratch Game:](/game/images/Arrow.jpg){: height="20"} Story on Scratch](https://scratch.mit.edu/projects/415632891)
+[![Scratch Game:](/game/images/Arrow.jpg){: height="20"} Story on Scratch (Opens in a new tab)](https://scratch.mit.edu/projects/415632891){:target="_blank"} 
 
