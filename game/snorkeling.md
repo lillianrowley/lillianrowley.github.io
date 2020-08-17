@@ -1,7 +1,7 @@
 ---
 layout: game
 title: Snorkeling
-back: /game/mermaids.html
+back: /game/scuba.html
 ---
 
 ![Snorkeling](/game/images/snorkeling.jpg){: width="175px" style="float:right"}
@@ -16,4 +16,4 @@ Do you go home, follow the dolphin, or keep following the shimmers?
 
 [![Choice2:](/game/images/Arrow.jpg){: height="20"} Follow Shimmers](follow_shimmers.html)
 
-[![Choice2:](/game/images/Arrow.jpg){: height="20"} Follow Dolphin](#todo:link2)
+[![Choice2:](/game/images/Arrow.jpg){: height="20"} Follow Dolphin](follow_dolphin.html)

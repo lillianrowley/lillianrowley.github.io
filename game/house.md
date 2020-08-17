@@ -1,7 +1,7 @@
 ---
 layout: game
 title: The Haunted House
-back: /game
+back: /game/start.html
 ---
 
 ![The Scary House](/game/images/Haunted_House.jpg){: style="float:right"}

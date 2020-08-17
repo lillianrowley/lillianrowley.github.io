@@ -1,7 +1,7 @@
 ---
 layout: game
-title: Magical Mermaids
-back: /game
+title: Scuba Diving
+back: /game/start.html
 ---
 
 ![The Beach](/game/images/beach.jpg){: width="275px" style="float:right"}

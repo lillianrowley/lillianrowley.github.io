@@ -1,11 +1,15 @@
 ---
 layout: game_start
-title: The game!
+title: Games!
 ---
-![Boredom!](/game/images/bored.jpg){: style="float:right" width="200px"}
 
-You are bored!  What do you decide to do?
+I have finished one game and I am working on a second one. Choose what you want to play!
 
-[![Choice1:](/game/images/Arrow.jpg){: height="20"} Go Into The Haunted House That Everyone Is Scared Of](house.html)
+[![Choice1:](/game/images/Arrow.jpg){: height="20"} Lilly's First Game](start.html)
 
-[![Choice2:](/game/images/Arrow.jpg){: height="20"} Meet Magical Mermaids](mermaids.html)
+[![Choice2:](/game/images/Arrow.jpg){: height="20"} Lilly's New Game](/adventure/)
+
+And here is an interactive story I made on Scratch!
+
+[![Scratch Game:](/game/images/Arrow.jpg){: height="20"} Story on Scratch](https://scratch.mit.edu/projects/415632891)
+

@@ -1,7 +1,7 @@
 ---
 layout: game
 title: Dolphin
-back: /game/mermaids.html
+back: /game/scuba.html
 ---
 
 ![A Dolphin](/game/images/dolphin.jpg){: width="275px" style="float:right"}

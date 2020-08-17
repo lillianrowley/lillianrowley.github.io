@@ -1,0 +1,42 @@
+body {
+    margin: 60px auto;
+    width: 70%;
+	background-color:black;
+	color: white;
+}
+nav ul {
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    padding: 0px;
+    list-style: none;
+    font-weight: bold;
+}
+
+nav a {
+    text-decoration: none;
+    font-size: 2em;
+}
+
+nav ul li, footer ul li {
+    display: inline;
+    margin-right: 20px;
+	color: yellow;
+}
+
+a {
+    text-decoration: none;
+    color: #999;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+h2 {
+	color: white;
+    font-size: 3em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+p {
+    font-size: 1.5em;
+    line-height: 1.4em;
+    color: #333;
+}
