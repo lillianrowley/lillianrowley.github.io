@@ -11,7 +11,7 @@ I love dragons, wolves, and adorable puppies, and hope *you* love this website! 
 About This Website
 ==================
 
-Soon, I will make a "Choose Your Own Adventure" game [Here](/game). I am not a professional or anything, so it may not be as fun as games on [pbskids.org](https://pbskids.org)
+Soon, I will make a "Choose Your Own Adventure" game [Here](/game/start). I am not a professional or anything, so it may not be as fun as games on [pbskids.org](https://pbskids.org)
 
 You can also check out some of my pictures and videos!
 
