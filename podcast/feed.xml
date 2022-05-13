@@ -17,47 +17,28 @@
     </image>
     <itunes:owner>
       <itunes:name>Lillian Rowley</itunes:name>
-      <itunes:email>rody.davis.jr@gmail.com</itunes:email>
+      <itunes:email>Matt.B.Rowley@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:keywords>flutter,dart,github,vr,ar,web</itunes:keywords>
-    <copyright>Rody Davis Productions 2020</copyright>
-    <description>Exploring Flutter, VR, AR, Cross-Platform Projects</description>
+    <copyright>Lillian Rowley 2022</copyright>
+    <description>Just a fun Wanderhome podcast</description>
     <googleplay:image href="https://rodydavis.github.io/podcast-player/img/icon.jpg" />
     <language>en-us</language>
     <itunes:explicit>no</itunes:explicit>
     <pubDate>Mon, 13 Apr 2020 13:00:00 PDT</pubDate>
-    <link>https://rodydavis.github.io/podcast-player/feed.xml</link>
+    <link>https://lillianrolwey.github.io/podcast/feed.xml</link>
     <itunes:image href="https://rodydavis.github.io/podcast-player/img/icon.jpg" />
     <item>
-      <author>Rody Davis, Norbert Kozsir</author>
-      <itunes:author>Rody Davis, Norbert Kozsir</itunes:author>
-      <title>Flutter Desktop/Web and VR</title>
+      <author>Matt and Tina</author>
+      <itunes:author>Matt and Tina</itunes:author>
+      <title>Test Episode</title>
       <pubDate>Mon, 13 Apr 2020 13:00:00 GMT</pubDate>
-      <enclosure url="https://lillianrowley.github.io/podcast/episode_0.mp3" type="audio/mpeg" />
+      <enclosure url="https://lillianrowley.github.io/podcast/Episode_0.mp3" type="audio/mpeg" />
       <itunes:duration>54:08</itunes:duration>
       <guid isPermaLink="false">cepod01</guid>
       <itunes:explicit>no</itunes:explicit>
       <description>
-Norbert Kozsir - @norbertkozsir
-
-https://twitter.com/norbertkozsir
-
-https://github.com/norbert515
-
-
-Rody Davis - @rodydavis
-
-https://twitter.com/rodydavis
-
-https://github.com/rodydavis
-
-https://youtube.com/rodydavis
-
-https://rodydavis.com
-
-Our podcast player:
-
-https://rodydavis.github.io/podcast-player/
+        Podcast about Wanderhome
         </description>
     </item>
   </channel>
