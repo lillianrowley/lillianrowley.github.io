@@ -2,7 +2,7 @@
 layout: default
 title: Lillian's "dot-com"
 ---
-		
+
 Hi there, I'm Lilly!
 ====================
 
@@ -14,6 +14,10 @@ About This Website
 Soon, I will make a "Choose Your Own Adventure" game [Here](/game/start). I am not a professional or anything, so it may not be as fun as some other ones, with makers that get payed to make good websites.
 
 You can also check out some of my pictures and videos!
+
+My latest project is a podcast about the game Wanderhome. You can listen to it
+[Here](/podcast) or on any podcasting app through the rss feed
+[Here](/podcast/feed.xml).
 
 This website is under construction!
 -----------------------------------
