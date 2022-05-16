@@ -1,45 +1,54 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Wandering Home</title>
-    <googleplay:author>Matt and Tina</googleplay:author>
+    <title>Tales from the Haeth: A Wanderhome Podcast</title>
+    <googleplay:author>Lilly and Matt Rowley</googleplay:author>
     <rawvoice:rating>TV-G</rawvoice:rating>
     <rawvoice:location>Cedar City, Utah</rawvoice:location>
     <rawvoice:frequency>Weekly</rawvoice:frequency>
-    <author>Matt and Tina</author>
-    <itunes:author>Matt and Tina</itunes:author>
+    <author>Lilly and Matt Rowley</author>
+    <itunes:author>Lilly and Matt Rowley</itunes:author>
     <itunes:email>Matt.B.Rowley@gmail.com</itunes:email>
-    <itunes:category text="Gaming" />
+    <itunes:category text="Tabletop Gaming" />
     <image>
-      <url>https://rodydavis.github.io/podcast-player/img/icon.jpg</url>
-      <title>Wandering Home</title>
-      <link>https://lillian.j.rowley.github.io/podcast/</link>
+      <url>https://lillianrowley.github.io/podcast/images/Wanderhome_Cover.webp</url>
+      <title>Tales from the Haeth: A Wanderhome Podcast</title>
+      <link>https://lillianrowley.github.io/podcast/feed.xml</link>
     </image>
     <itunes:owner>
-      <itunes:name>Lillian Rowley</itunes:name>
+      <itunes:name>Lilly and Matt Rowley</itunes:name>
       <itunes:email>Matt.B.Rowley@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:keywords>flutter,dart,github,vr,ar,web</itunes:keywords>
+    <itunes:keywords>Wanderhome</itunes:keywords>
     <copyright>Lillian Rowley 2022</copyright>
-    <description>Just a fun Wanderhome podcast</description>
-    <googleplay:image href="https://rodydavis.github.io/podcast-player/img/icon.jpg" />
-    <language>en-us</language>
-    <itunes:explicit>no</itunes:explicit>
-    <pubDate>Mon, 13 Apr 2020 13:00:00 PDT</pubDate>
-    <link>https://lillianrolwey.github.io/podcast/feed.xml</link>
-    <itunes:image href="https://rodydavis.github.io/podcast-player/img/icon.jpg" />
+    <description>
+        A podcast which shares tales from our playing of the tabletop role-playing game Wanderhome.
+
+        Lilly Rowley and her family love to play the tabletop role-playing game Wanderhome. In this game, all the player characters are journeying animal folk, who live in a peaceful and bucolic land called the Haeth. As they travel, the players meet new kith and explore new places. Sometimes they are surrounded by mystery and magic, while other times they face mundane and quotidian struggles with a relatable real-life feel. The story can explore topics like trauma, rejection, rebirth, and identity. Or it can take a more gentle road, remaining cheery annd more focused on the magic surronding us. Everything in the Haeth breathes with life, and even nature can act in your stories through locations and seasons. Join Val, Isaac, Coz, Spotty, and Enchantment on their journey to find their perfect home.
+
+        Wanderhome was written by Jay Dragon, from Possum Creek Games
+
+        This podcast will be using the music of Seasons: Music from the Land of Wanderhome by TChem by his generous permission
+
+        Some music also provided by Tina Rowley
+    </description>
+    <googleplay:image href="https://lillianrowley.github.io/podcast/images/Wanderhome_Cover.webp" />
+    <language>en-us</language>    <itunes:explicit>no</itunes:explicit>
+    <pubDate>Mon, 16 May 2022 10:00:00 MDT</pubDate>
+    <link>https://lillianrowley.github.io/podcast/feed.xml</link>
+    <itunes:image href="https://lillianrowley.github.io/podcast/images/Wanderhome_Cover.webp" />
     <item>
-      <author>Matt and Tina</author>
-      <itunes:author>Matt and Tina</itunes:author>
-      <title>Test Episode</title>
-      <pubDate>Mon, 13 Apr 2020 13:00:00 GMT</pubDate>
-      <enclosure url="https://lillianrowley.github.io/podcast/Episode_0.mp3" type="audio/mpeg" />
-      <itunes:duration>54:08</itunes:duration>
+      <author>Lilly and Matt Rowley</author>
+      <itunes:author>Lilly and Matt Rowley</itunes:author>
+      <title>Episode 0: Introducing Wanderhome</title>
+      <pubDate>Mon, 16 May 2022 10:00:00 MDT</pubDate>
+      <enclosure url="https://lillianrowley.github.io/podcast/audio/episode00.mp3" type="audio/mpeg" />
+      <itunes:duration>14:34</itunes:duration>
       <guid isPermaLink="false">cepod01</guid>
       <itunes:explicit>no</itunes:explicit>
       <description>
-        Podcast about Wanderhome
-        </description>
+        In this episode we introduce ourselves, and the game Wanderhome itself!
+      </description>
     </item>
   </channel>
 </rss>

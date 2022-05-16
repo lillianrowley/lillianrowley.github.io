@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>{{ page.title }}</title>
+		<!-- link to main stylesheet -->
+		<link rel="stylesheet" type="text/css" href="/css/podcast.css">
+    <link rel="apple-touch-icon" sizes="180x180" href="/podcast/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/podcast/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/podcast/images/favicon-16x16.png">
+    <link rel="manifest" href="/podcast/images/site.webmanifest">
+    <link rel="mask-icon" href="/podcast/images/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="/podcast/images/favicon.ico">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="msapplication-config" content="/podcast/images/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+	</head>
+	<body>
+		<nav>
+    		<ul>
+        		<li><a href="/">Home</a></li>
+	        	<li><a href="/about">About</a></li>
+        		<li><a href="/game">Games</a></li>
+        		<li><a href="/podcast">Podcast</a></li>
+        		<li><a href="/blog">Blog</a></li>
+				<li><a href="/media">Pictures and Videos</a></li>
+    		</ul>
+		</nav>
+		<div class="container">
+      <table class="image" style="float: right;">
+      <tbody>
+      <tr>
+        <td><a href = "https://possumcreekgames.com/pages/wanderhome"
+                       target="blank"><img
+            src="/podcast/images/Wanderhome_Cover.webp" alt="Wanderhome Cover
+                 Art" width="500" height="500"/></a></td>
+      </tr>
+      <tr>
+      <td class="caption"><i>Wanderhome Cover Art by Sylvia Bi</i></td>
+      </tr>
+      </tbody>
+      </table>
+
+      {{ content }}
+
+		</div><!-- /.container -->
+		<footer>
+    		<ul>
+			<h3>Made By:</h3>
+			<li><a href="https://github.com/lillianrowley">Lillian Rowley</a></li>
+			<li><a href="https://github.com/mattbrowley">Matthew Rowley</a></li>
+		</ul>
+		</footer>
+	</body>
+</html>
