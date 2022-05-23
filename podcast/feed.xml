@@ -46,7 +46,7 @@ Wanderhome cover art by Sylvia Bi
       <itunes:author>Lilly and Matt Rowley</itunes:author>
       <title>Episode 0: Introducing Wanderhome</title>
       <pubDate>Mon, 16 May 2022 10:00:00 MDT</pubDate>
-      <enclosure url="https://lillianrowley.github.io/podcast/audio/episode00.mp3" type="audio/mpeg" />
+      <enclosure url="https://lillianrowley.github.io/podcast/audio/episode00.mp3" type="audio/mpeg" length="11295669" />
       <itunes:duration>14:34</itunes:duration>
       <guid isPermaLink="false">tfthpod00</guid>
       <itunes:explicit>no</itunes:explicit>
