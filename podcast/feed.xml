@@ -2,6 +2,7 @@
 <rss xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Tales from the Haeth: A Wanderhome Podcast</title>
+    <link>https://lillianrowley.github.io/podcast/</link>
     <googleplay:author>Lilly and Matt Rowley</googleplay:author>
     <rawvoice:rating>TV-G</rawvoice:rating>
     <rawvoice:location>Cedar City, Utah</rawvoice:location>
@@ -9,7 +10,8 @@
     <author>Lilly and Matt Rowley</author>
     <itunes:author>Lilly and Matt Rowley</itunes:author>
     <itunes:email>Matt.B.Rowley@gmail.com</itunes:email>
-    <itunes:category text="Tabletop Gaming" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="Games" />
     <image>
       <url>https://lillianrowley.github.io/podcast/images/Wanderhome_Cover.png</url>
       <title>Tales from the Haeth: A Wanderhome Podcast</title>
@@ -46,7 +48,7 @@ Wanderhome cover art by Sylvia Bi
       <pubDate>Mon, 16 May 2022 10:00:00 MDT</pubDate>
       <enclosure url="https://lillianrowley.github.io/podcast/audio/episode00.mp3" type="audio/mpeg" />
       <itunes:duration>14:34</itunes:duration>
-      <guid isPermaLink="false">cepod01</guid>
+      <guid isPermaLink="false">tfthpod00</guid>
       <itunes:explicit>no</itunes:explicit>
       <description>
 In this episode we introduce ourselves, and the game Wanderhome itself!
