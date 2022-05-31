@@ -10,7 +10,10 @@
     <author>Lilly and Matt Rowley</author>
     <itunes:author>Lilly and Matt Rowley</itunes:author>
     <itunes:email>Matt.B.Rowley@gmail.com</itunes:email>
-    <itunes:category text="Leisure; Games" />
+    <itunes:category text="Leisure">
+      <itunes:category text="Games" />
+    </itunes:category>
+    <itunes:category text="Kids &amp; Family" />
     <image>
       <url>https://lillianrowley.github.io/podcast/images/Wanderhome_Cover.png</url>
       <title>Tales from the Haeth: A Wanderhome Podcast</title>
