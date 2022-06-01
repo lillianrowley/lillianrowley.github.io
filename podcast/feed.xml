@@ -5,7 +5,7 @@
     <link>https://lillianrowley.github.io/podcast/</link>
     <googleplay:author>Lilly and Matt Rowley</googleplay:author>
     <rawvoice:rating>TV-G</rawvoice:rating>
-    <rawvoice:location>Cedar City, Utah</rawvoice:location>
+    <rawvoice:location>Utah</rawvoice:location>
     <rawvoice:frequency>Weekly</rawvoice:frequency>
     <author>Lilly and Matt Rowley</author>
     <itunes:author>Lilly and Matt Rowley</itunes:author>
@@ -63,7 +63,7 @@ In this episode we introduce ourselves, and the game Wanderhome itself!
       <itunes:author>Lilly and Matt Rowley</itunes:author>
       <title>Episode 1: The Journey Begins</title>
       <pubDate>Thu, 31 May 2022 10:00:00 MDT</pubDate>
-      <enclosure url="https://lillianrowley.github.io/podcast/audio/episode01.mp3" type="audio/mpeg" length="5326923" />
+      <enclosure url="https://lillianrowley.github.io/podcast/audio/episode01.mp3" type="audio/mpeg" length="5326942" />
       <itunes:duration>6:51</itunes:duration>
       <guid isPermaLink="false">tfthpod01</guid>
       <itunes:explicit>no</itunes:explicit>
