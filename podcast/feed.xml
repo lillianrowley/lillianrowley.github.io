@@ -58,5 +58,19 @@ Wanderhome cover art by Sylvia Bi
 In this episode we introduce ourselves, and the game Wanderhome itself!
       </description>
     </item>
+    <item>
+      <author>Lilly and Matt Rowley</author>
+      <itunes:author>Lilly and Matt Rowley</itunes:author>
+      <title>Episode 1: The Journey Begins</title>
+      <pubDate>Thu, 31 May 2022 10:00:00 MDT</pubDate>
+      <enclosure url="https://lillianrowley.github.io/podcast/audio/episode01.mp3" type="audio/mpeg" length="5326923" />
+      <itunes:duration>6:51</itunes:duration>
+      <guid isPermaLink="false">tfthpod01</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://lillianrowley.github.io/podcast/images/first_camp.JPG" />
+      <description>
+The characters meet on a road through a mysterious forest. After some minor struggles, they settle down for the night.
+      </description>
+    </item>
   </channel>
 </rss>
