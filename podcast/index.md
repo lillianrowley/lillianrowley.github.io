@@ -21,8 +21,8 @@ each episode)!
 
 [![Spotify Badge](/podcast/images/spotify-podcast-badge-blk-grn-165x40.png)](https://open.spotify.com/show/1ISdtT44lmKZHvmFG7w2ae){:target="blank"}
 [![Stitcher Badge](/podcast/images/Stitcher_Listen_Badge_Color_Light_BG.png){:height="40px"}](https://www.stitcher.com/podcast/tales-from-the-haeth-a-wanderhome-podcast){:target="blank"}
-[![Apple Podcasts Badge](/podcast/images/US_UK_Apple_Podcasts_Listen_Badge_RGB.svg){:height="40px"}](https://podcasts.apple.com/us/podcast/tales-from-the-haeth-a-wanderhome-podcast/id1625771671){:target="blank"}
 [![Google Podcasts Badge](/podcast/images/EN_Google_Podcasts_Badge.svg){:height="40px"}](https://podcasts.google.com/feed/aHR0cHM6Ly9saWxsaWFucm93bGV5LmdpdGh1Yi5pby9wb2RjYXN0L2ZlZWQueG1s){:target="blank"}
+[![Apple Podcasts Badge](/podcast/images/US_UK_Apple_Podcasts_Listen_Badge_RGB.svg){:height="40px"}](https://podcasts.apple.com/us/podcast/tales-from-the-haeth-a-wanderhome-podcast/id1625771671){:target="blank"}
 [![Amazon Podcasts Badge](/podcast/images/en_listenOnButton_black.png){:height="40px"}](https://music.amazon.com/podcasts/745ddfa3-aece-4ae9-a35a-97e157f01fba/tales-from-the-haeth-a-wanderhome-podcast){:target="blank"}
 
 Episodes
