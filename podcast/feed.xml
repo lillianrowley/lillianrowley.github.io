@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Tales from the Haeth: A Wanderhome Podcast</title>
@@ -70,6 +70,20 @@ In this episode we introduce ourselves, and the game Wanderhome itself!
       <itunes:image href="https://lillianrowley.github.io/podcast/images/first_camp.JPG" />
       <description>
 The characters meet on a road through a mysterious forest. After some minor struggles, they settle down for the night.
+      </description>
+    </item>
+    <item>
+      <author>Lilly and Matt Rowley</author>
+      <itunes:author>Lilly and Matt Rowley</itunes:author>
+      <title>Episode 2: A Home for Lilt</title>
+      <pubDate>Saturday, 23 July 2022 10:00:00 MDT</pubDate>
+      <enclosure url="https://lillianrowley.github.io/podcast/audio/episode02.mp3" type="audio/mpeg" length="5915831" />
+      <itunes:duration>7:41</itunes:duration>
+      <guid isPermaLink="false">tfthpod02</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://lillianrowley.github.io/podcast/images/lilt_home.JPG" />
+      <description>
+The crew finds a home conveniently placed in the middle of the forest for the fluffiest and smallest of Spotty's forgotten gods.
       </description>
     </item>
   </channel>

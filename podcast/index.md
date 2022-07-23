@@ -29,7 +29,7 @@ Episodes
 --------
 * [Episode 0: Introducing Wanderhome](episode00.html)
 * [Episode 1: The Journey Begins](episode01.html)
-
+* [Episode 2: A Home for Lilt](episode02.html)
 
 
 ![tabletop.JPG](/podcast/images/tabletop.JPG){: style="float:center" width="100%"}
